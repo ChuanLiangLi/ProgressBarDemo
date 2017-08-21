@@ -1,0 +1,8 @@
+F:\visual studio 2013\Projects\ProgressBarTest\ProgressBarTest\DownBarSecond\bin\Debug\DownBarSecond.exe.config
+F:\visual studio 2013\Projects\ProgressBarTest\ProgressBarTest\DownBarSecond\bin\Debug\DownBarSecond.exe
+F:\visual studio 2013\Projects\ProgressBarTest\ProgressBarTest\DownBarSecond\bin\Debug\DownBarSecond.pdb
+F:\visual studio 2013\Projects\ProgressBarTest\ProgressBarTest\DownBarSecond\obj\Debug\WinShowDown.FrmMain.resources
+F:\visual studio 2013\Projects\ProgressBarTest\ProgressBarTest\DownBarSecond\obj\Debug\DownBarSecond.Properties.Resources.resources
+F:\visual studio 2013\Projects\ProgressBarTest\ProgressBarTest\DownBarSecond\obj\Debug\DownBarSecond.csproj.GenerateResource.Cache
+F:\visual studio 2013\Projects\ProgressBarTest\ProgressBarTest\DownBarSecond\obj\Debug\DownBarSecond.exe
+F:\visual studio 2013\Projects\ProgressBarTest\ProgressBarTest\DownBarSecond\obj\Debug\DownBarSecond.pdb

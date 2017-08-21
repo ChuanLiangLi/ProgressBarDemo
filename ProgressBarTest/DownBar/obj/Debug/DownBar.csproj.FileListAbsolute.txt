@@ -1,0 +1,9 @@
+F:\visual studio 2013\Projects\ProgressBarTest\ProgressBarTest\DownBar\bin\Debug\DownBar.exe.config
+F:\visual studio 2013\Projects\ProgressBarTest\ProgressBarTest\DownBar\bin\Debug\DownBar.exe
+F:\visual studio 2013\Projects\ProgressBarTest\ProgressBarTest\DownBar\bin\Debug\DownBar.pdb
+F:\visual studio 2013\Projects\ProgressBarTest\ProgressBarTest\DownBar\obj\Debug\DownBar.csprojResolveAssemblyReference.cache
+F:\visual studio 2013\Projects\ProgressBarTest\ProgressBarTest\DownBar\obj\Debug\DownBar.Form1.resources
+F:\visual studio 2013\Projects\ProgressBarTest\ProgressBarTest\DownBar\obj\Debug\DownBar.Properties.Resources.resources
+F:\visual studio 2013\Projects\ProgressBarTest\ProgressBarTest\DownBar\obj\Debug\DownBar.csproj.GenerateResource.Cache
+F:\visual studio 2013\Projects\ProgressBarTest\ProgressBarTest\DownBar\obj\Debug\DownBar.exe
+F:\visual studio 2013\Projects\ProgressBarTest\ProgressBarTest\DownBar\obj\Debug\DownBar.pdb

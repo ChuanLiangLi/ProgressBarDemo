@@ -1,0 +1,9 @@
+F:\visual studio 2013\Projects\ProgressBarTest\ProgressBarTest\ProgressBarTest\bin\Debug\ProgressBarTest.exe.config
+F:\visual studio 2013\Projects\ProgressBarTest\ProgressBarTest\ProgressBarTest\bin\Debug\ProgressBarTest.exe
+F:\visual studio 2013\Projects\ProgressBarTest\ProgressBarTest\ProgressBarTest\bin\Debug\ProgressBarTest.pdb
+F:\visual studio 2013\Projects\ProgressBarTest\ProgressBarTest\ProgressBarTest\obj\Debug\ProgressBarTest.csprojResolveAssemblyReference.cache
+F:\visual studio 2013\Projects\ProgressBarTest\ProgressBarTest\ProgressBarTest\obj\Debug\ProgressBarTest.Form1.resources
+F:\visual studio 2013\Projects\ProgressBarTest\ProgressBarTest\ProgressBarTest\obj\Debug\ProgressBarTest.Properties.Resources.resources
+F:\visual studio 2013\Projects\ProgressBarTest\ProgressBarTest\ProgressBarTest\obj\Debug\ProgressBarTest.csproj.GenerateResource.Cache
+F:\visual studio 2013\Projects\ProgressBarTest\ProgressBarTest\ProgressBarTest\obj\Debug\ProgressBarTest.exe
+F:\visual studio 2013\Projects\ProgressBarTest\ProgressBarTest\ProgressBarTest\obj\Debug\ProgressBarTest.pdb
