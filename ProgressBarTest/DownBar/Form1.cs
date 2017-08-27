@@ -40,7 +40,16 @@ namespace DownBar
             {
                 client.DownloadProgressChanged += delegate (object sender, DownloadProgressChangedEventArgs e)
                 {
-                    this.Invoke(downloadProgressChanged, e.ProgressPercentage);
+                    if (this.InvokeRequired)
+                    {
+
+
+                    }
+                    else
+                    {
+                        this.Invoke(downloadProgressChanged, e.ProgressPercentage);
+                    }
+                   
                 };
             }
             if (downloadFileCompleted != null)
@@ -52,6 +61,11 @@ namespace DownBar
             }
             client.DownloadFileAsync(new Uri(url), savefile);
         }
+        private void DownnLoadFinished()
+        {
+
+        }
+
         private void btnDownLoad_Click(object sender, EventArgs e)
         {
             DownloadFile("http://localhost:8080/movie.zip", Application.StartupPath+"\\movie.zip", ProgressBar_Value, null);

@@ -34,12 +34,13 @@ namespace ProgressBarTest
 
         private void Down_DownLoadProgress(long toatl, long current)
         {
-           if(this.InvokeRequired)
+
+           if(this.InvokeRequired)//子线程和创建UI控件的线程不再同一线程中
             {
                 Debug.WriteLine("子线程：" + Thread.CurrentThread.ManagedThreadId);
                 this.Invoke(new DownLoader.DownLoadProgressHandler(Down_DownLoadProgress),new object [] {toatl,current });
             }
-           else
+           else// 主线程执行else,更新progressBar
             {
                 Debug.WriteLine("主线程：" + Thread.CurrentThread.ManagedThreadId);
                 this.progressBar1.Maximum = (int)toatl;
